@@ -1,5 +1,5 @@
 # Responsive-Off-Canvas-Menu-Web
-This website utilizes Off-Canvas Menu design, with responsive images and tables.This is part of the Udacity's Front-End Web Developer Nanodegree's homework series.
+This website utilizes Off-Canvas Menu design, with responsive images and tables. This is part of the Udacity's Front-End Web Developer Nanodegree's homework series.
 You can checkout this website: https://momothepikachu.github.io/Responsive-Off-Canvas-Menu-Web/
 
 ## Off-Canvas Menu on Mobile:
